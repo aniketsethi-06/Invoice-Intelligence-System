@@ -143,7 +143,7 @@ The model successfully identifies the vast majority of risky invoices while main
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/invoice-intelligence-system.git
+git clone https://github.com/aniketsethi-06/invoice-intelligence-system.git
 
 cd invoice-intelligence-system
 ```
